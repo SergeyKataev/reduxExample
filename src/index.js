@@ -24,7 +24,6 @@ const reducer = (state = initialState, action) => {
         default:
             return state;
     }
-
 }
 
 // let state = reducer(initialState, {type: 'INC'})
